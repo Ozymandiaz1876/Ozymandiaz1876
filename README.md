@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozymandiaz1876&label=Profile%20views&color=0e75b6&style=flat" alt="ozymandiaz1876" /> </p>
 
-- 🌱 I’m currently learning **Vue.js**  **fusion.js**  **webpack.js**  **react.js**
+- 🌱 I’m currently learning **Vue.js**  **fusion.js**  **webpack.js** **Sass/Scss**
 
 - 📫 How to reach me **chandreshsharma06.cs@gmail.com**
 
