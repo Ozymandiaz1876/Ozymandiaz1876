@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandresh Sharma</h1>
-<h3 align="Left">I am Chandresh Sharma, a 22-year old Software Developer, Designer and a self taught 2d/3d artist from India.
+<h3 align="Left">I'm Chandresh Sharma, a 22-year old Software Developer, Designer and a self taught 2d/3d artist from India.
 
 I've had a keen interest in building things since I was a kid; from breaking & modifying model trains and cars, trying to create my own game in RPGmaker to developing large-scale applications, I've always had passion for translating complex problems into engaging experiences.
 
