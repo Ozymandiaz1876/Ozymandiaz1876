@@ -10,7 +10,6 @@ When I'm not doing all of that, I can be found listening to classical music(most
 
 
 - 🌱 I’m currently learning **Vue.js, Next.js, webpack, Sass/Scss, GraphQL**
-- 
 - 📫 How to reach me **chandreshsharma06.cs@gmail.com**
 
 
