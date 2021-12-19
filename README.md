@@ -8,7 +8,7 @@
 <h3 align="Left">When I'm not doing all of that, I can be found listening to classical music(mostly Chopin and paganini), some old classics of queen, sinatra or presley, sometimes some podcasts, or reading some books and online articles(usually related to tech or personnal finance), playing a video game or just trying to learn something interesting and exciting.</h3>
 
 
-- 🌱 I’m currently learning **Vue.js, Next.js, webpack, Sass/Scss, GraphQL**
+- 🌱 I’m currently learning **Typescript, Next.js, GraphQL**
 - 💻 All of my projects are available at [https://chandresh-portfolio.netlify.app/](https://chandresh-portfolio.netlify.app/)
 - 📫 How to reach me **chandreshsharma06.cs@gmail.com**
 
